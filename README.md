@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ## Introduction
-안녕하세요 반갑습니다 뭐라도 보고 가세요 ㅋㅋ
+안녕하세요 반갑습니다
 ## Career
-- 영남대학교 컴퓨터학부 컴퓨터전공 학생
+- 영남대학교 컴퓨터학부 컴퓨터전공
 ## Links
 - e-mail : skfafa1234@naver.com
 - Instargram : imnot_hero
